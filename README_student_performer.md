@@ -1,5 +1,3 @@
-# ML
-All My ML projects 
 
 STUDENT PERFORMANCE INDICATOR
 
